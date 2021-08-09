@@ -1,0 +1,85 @@
+======================================
+        XATTACK STARING!
+======================================
+FIRST NAME: georgia jensen
+
+GENDER : female
+
+STREET : 5867 w gray st
+
+CITY : indianapolis
+
+STATE : virginia
+
+DATE OF BIRTH : 1987-08-28
+
+AGE : 33
+
+SSN : 284-61-5936
+
+MOBILE : (308)-338-6339
+
+PHONE : (173)-534-8813
+======================================
+        MINGING DATA DONE!
+======================================
+
+--------------------------------------
+     !!!Creating New Attacker!!!
+--------------------------------------
+
+======================================
+        XATTACK STARING!
+======================================
+FIRST NAME: june douglas
+
+GENDER : female
+
+STREET : 4818 wheeler ridge dr
+
+CITY : elgin
+
+STATE : alabama
+
+DATE OF BIRTH : 1981-09-23
+
+AGE : 39
+
+SSN : 223-84-0802
+
+MOBILE : (548)-920-7924
+
+PHONE : (902)-099-7765
+======================================
+        MINGING DATA DONE!
+======================================
+
+--------------------------------------
+     !!!Creating New Attacker!!!
+--------------------------------------
+
+======================================
+        XATTACK STARING!
+======================================
+FIRST NAME: eddie chapman
+
+GENDER : male
+
+STREET : 2294 poplar dr
+
+CITY : visalia
+
+STATE : kentucky
+
+DATE OF BIRTH : 1990-09-13
+
+AGE : 30
+
+SSN : 864-86-6963
+
+MOBILE : (795)-365-3444
+
+PHONE : (276)-370-1900
+======================================
+        MINGING DATA DONE!
+======================================
